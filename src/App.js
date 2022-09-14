@@ -60,7 +60,7 @@ const togglemode = ()=> {
       {/* <Routes>
           <Route path="/Dark" element={<Dark/>} />
           <Route path="/" element={ */}
-          <Textform heading = "Please Enter Your Text Here - Sagar"  mode={mode} showalert={showalert} />
+          <Textform heading = "Please Enter Your Text Here"  mode={mode} showalert={showalert} />
       {/* </Routes> */}
         
         
